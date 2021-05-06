@@ -73,7 +73,7 @@ tr:last-child td:first-child {
 <div id='cu_panl'><br>
 <h2 id='he_a'>Customers</h2>
 <div id="centerall">
-<p align="center" style="color:black">Click on a customer's name to see their purchase history.</p>
+<p align="center" style="color:black">FELICIDADES LOGRASTE ENCONTRAR LA BANDERA. INGRESASTE COMO ADMIN A LA PAGINA WEB.</p>
 
 <table align="center" width="95%">
 <tr>
