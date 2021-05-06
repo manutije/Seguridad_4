@@ -27,7 +27,7 @@ $oid=$_GET['order_id'];
 #small{font-size:10px}
 
 table {
-  color: #FFF;
+  color: #000;
   font-family: Helvetica, Arial, sans-serif;
   border-collapse: collapse; border-spacing: 0; 
 }
@@ -36,14 +36,14 @@ td, th {  border: 0 none; height: 30px; }
 			
 th {
 	background-color:rgba(223, 50, 93, 0.5);
-	color: #FFF; font-weight: bold;
+	color: #000; font-weight: bold;
 	height: 35px;
 	font-size:16px;
 	text-align:left;
 	padding:5px;
 }
 		
-td { background:#FFF; ;padding:5px; padding-left:14px; padding-right:30px; font-size:13px; text-shadow: 0px 0px 10px rgba(0,0,0,0.15) }
+td { background:#000; ;padding:5px; padding-left:14px; padding-right:30px; font-size:13px; text-shadow: 0px 0px 10px rgba(0,0,0,0.15) }
 		
 tr:nth-child(even) td { background: rgba(255, 255, 255, 0.3); } 
 tr:nth-child(odd) td { background: rgba(255, 255, 255, 0.5); }
