@@ -66,7 +66,7 @@ INSERT INTO `customers` (`id`, `last_name`, `first_name`, `email`, `password`, `
 (2, 'Bill	', 'Gates', 'bill.gates@microsoft.com', 'aaaaaa', '1928364817389475', '09/2029'),
 (3, 'Jackie', 'Chan', 'jc@company.com', 'qqqqqq', '36492273909461275', '10/2030'),
 (4, 'Elon', 'Musk', 'elon@paypal.com', 'qqqqqq', '8364829506913745', '02/2020'),
-(5, 'Ver correo', ' Admin', 'admin@admin.com', '123abc', '1234567890987654', '7/2029'),
+(5, 'admin@admin.com', ' Admin', 'admin@admin.com', '123abc', '1234567890987654', '7/2029'),
 (6, 'M', 'Ace', 'iace@gmail.com', '123abc', '1234567890987654', '7/2020'),
 (7, 'buggs', ' Bunny', 'bunny@gmail.com', '456abc', '1234567890987654', '7/2023'),
 (8, 'lola', ' Bunny', 'lola@gmail.com', '123def', '1234567890987654', '5/2022'),
