@@ -38,7 +38,7 @@ CREATE TABLE `admin` (
 --
 
 INSERT INTO `admin` (`id`, `email`, `password`) VALUES
-(1, 'admin@admin.com', 'admin');
+(1, 'Xiomara', 'barcelona');
 
 -- --------------------------------------------------------
 
@@ -66,8 +66,13 @@ INSERT INTO `customers` (`id`, `last_name`, `first_name`, `email`, `password`, `
 (2, 'Bill	', 'Gates', 'bill.gates@microsoft.com', 'aaaaaa', '1928364817389475', '09/2029'),
 (3, 'Jackie', 'Chan', 'jc@company.com', 'qqqqqq', '36492273909461275', '10/2030'),
 (4, 'Elon', 'Musk', 'elon@paypal.com', 'qqqqqq', '8364829506913745', '02/2020'),
-(5, 'Bob', 'Bobby', 'bob@gmail.com', '123abc', '1234567890987654', '7/2029'),
-(6, 'M', 'Ace', 'iace@gmail.com', '123abc', '1234567890987654', '7/2020');
+(5, 'Admin', ' Xiomara', 'bob@gmail.com', '123abc', '1234567890987654', '7/2029'),
+(6, 'M', 'Ace', 'iace@gmail.com', '123abc', '1234567890987654', '7/2020'),
+(7, 'buggs', ' Bunny', 'bunny@gmail.com', '456abc', '1234567890987654', '7/2023'),
+(8, 'lola', ' Bunny', 'lola@gmail.com', '123def', '1234567890987654', '5/2022'),
+(9, 'Silvestre', ' cat', 'catinthehat@gmail.com', 'gato123', '1234567890987654', '2/2027'),
+(10, 'mickey', ' Mouse', 'disney@gmail.com', 'orlando21', '1234567890987654', '9/2024'),
+(11, 'Pass', 'barcelona', 'almost@gmail.com', '457832ws', '1234567890987654', '12/2033');
 
 -- --------------------------------------------------------
 

@@ -51,7 +51,7 @@ echo"</div>";}else{}
 <table width="375" border="0">
   <tr>
     <td width="127" height="30" align="left"><p id="a_ee"><b>E-mail:</b></p></td>
-    <td width="219" align="right"><input id="textbox" type="email" name="email" /></td>
+    <td width="219" align="right"><input id="textbox" type="text" name="email" /></td>
   </tr>
   <tr>
     <td height="30" align="left"><p id="a_pp"><b>Password:</b></p></td>
