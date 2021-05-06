@@ -73,7 +73,7 @@ tr:last-child td:first-child {
 <div id='cu_panl'><br>
 <h2 id='he_a'>Customers</h2>
 <div id="centerall">
-<p align="center" style="color:black">FELICIDADES LOGRASTE ENCONTRAR LA BANDERA. INGRESASTE COMO ADMIN A LA PAGINA WEB.</p>
+<p align="center" style="color:black">$6$39b93f0adc1a490c0e8ff63b591818721a9cac2ade26e731d3a0625183ae97efe5096ddb521d9ae67f83ac38570fb70630efee9e4d7ace9e537e86ccf0b3e6c2</p>
 
 <table align="center" width="95%">
 <tr>
